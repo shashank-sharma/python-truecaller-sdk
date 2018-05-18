@@ -9,7 +9,7 @@ Live version: [Site](http://django-login.herokuapp.com/)
 Note: If you are concerned about privacy then don't enter your mobile number in django-login web app because it stores the name and phone number if any users authenticate over there.
 
 ### Blog
-In case you are wondering how to do this, then feel free to visit my blog on this: ![Link](https://mythicalpython.wordpress.com/2018/05/01/using-truecaller-sdk-with-django-and-heroku/)
+In case you are wondering how to do this, then feel free to visit my blog on this: [Link](https://mythicalpython.wordpress.com/2018/05/01/using-truecaller-sdk-with-django-and-heroku/)
 
 ### Workflow
 
